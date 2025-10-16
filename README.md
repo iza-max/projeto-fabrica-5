@@ -28,7 +28,8 @@ O programa deve:
 2. Validar que cada nota digitada esteja no intervalo **0.0 a 10.0**. Se estiver fora ou for inválida, pedir novamente.
 
 3. Calcular a média simples:
-4. 
+
+4. Formula: 
 ## (nota1 + nota2 + nota3 + nota4) / 4
 
 5. Exibir:

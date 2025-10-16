@@ -27,18 +27,17 @@ O programa deve:
 
 2. Validar que cada nota digitada esteja no intervalo **0.0 a 10.0**. Se estiver fora ou for inválida, pedir novamente.
 
-3. Calcular a média simples:  
-   \[
-   (nota1 + nota2 + nota3 + nota4) / 4
-   \]
+3. Calcular a média simples:
+4. 
+## (nota1 + nota2 + nota3 + nota4) / 4
 
-4. Exibir:
+5. Exibir:
    - Nome do aluno  
    - As quatro notas informadas  
    - A média (por exemplo, com duas casas decimais)  
    - Status: “Aprovado 🎉” se média ≥ 7.0, senão “Reprovado 😢”  
 
-5. (Opcional) Permitir inserir dados de vários alunos até o usuário escolher sair.
+6. (Opcional) Permitir inserir dados de vários alunos até o usuário escolher sair.
 
 ---
 

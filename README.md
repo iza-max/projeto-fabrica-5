@@ -29,7 +29,7 @@ O programa deve:
 
 3. Calcular a média simples:  
    \[
-   \text{média} = \frac{\text{nota1} + \text{nota2} + \text{nota3} + \text{nota4}}{4}
+   (nota1 + nota2 + nota3 + nota4) / 4
    \]
 
 4. Exibir:
